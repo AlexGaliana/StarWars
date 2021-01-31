@@ -1,0 +1,30 @@
+
+<div class="col-4"></div>
+<div class="col-8">
+  <form [formGroup]="form" (ngSubmit)="submit()">
+    <div class="row">
+      <div class="col">
+        <label >Nombre</label>
+
+        <input formControlName="nombre" id="name" type="text" class="form-control" placeholder="Nombre" [(ngModel)]="model.name">
+        <span *ngIf="this.form.get('nombre').errors?.required">
+        No puede estar vacio
+      </span>
+      </div>
+      <div class="col">
+        <label >Planeta</label>
+
+        <input formControlName="planeta" id="planet" type="text" class="form-control" placeholder="Planeta" [(ngModel)]="model.planet">
+        <span *ngIf="this.form.get('planeta').errors?.required">
+        No puede estar vacio
+      </span>
+      </div>
+    </div>
+    <button type="submit" class="btn btn-success" >Añadir Registro</button>
+  </form>
+</div>
+
+
+
+
+

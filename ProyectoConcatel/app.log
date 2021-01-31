@@ -1,0 +1,51 @@
+2021-01-31 15:47:12,082 INFO com.example.demo.DemoApplicationTests [Test worker] Starting DemoApplicationTests using Java 1.8.0_111 on DESKTOP-1CR838O with PID 8412 (started by GalianaWork in C:\Users\GalianaWork\IdeaProjects\ProyectoConcatel)
+2021-01-31 15:47:12,089 INFO com.example.demo.DemoApplicationTests [Test worker] No active profile set, falling back to default profiles: default
+2021-01-31 15:47:13,844 INFO com.example.demo.DemoApplicationTests [Test worker] Started DemoApplicationTests in 2.289 seconds (JVM running for 3.827)
+2021-01-31 15:48:03,044 INFO com.example.demo.DemoApplicationTests [Test worker] Starting DemoApplicationTests using Java 1.8.0_111 on DESKTOP-1CR838O with PID 8256 (started by GalianaWork in C:\Users\GalianaWork\IdeaProjects\ProyectoConcatel)
+2021-01-31 15:48:03,046 INFO com.example.demo.DemoApplicationTests [Test worker] No active profile set, falling back to default profiles: default
+2021-01-31 15:48:04,686 INFO com.example.demo.DemoApplicationTests [Test worker] Started DemoApplicationTests in 1.995 seconds (JVM running for 3.492)
+2021-01-31 19:37:37,899 INFO com.example.demo.DemoApplicationTests [Test worker] Starting DemoApplicationTests using Java 1.8.0_111 on DESKTOP-1CR838O with PID 12664 (started by GalianaWork in C:\Users\GalianaWork\IdeaProjects\ProyectoConcatel)
+2021-01-31 19:37:38,029 INFO com.example.demo.DemoApplicationTests [Test worker] No active profile set, falling back to default profiles: default
+2021-01-31 19:37:46,902 INFO com.example.demo.DemoApplicationTests [Test worker] Started DemoApplicationTests in 11.774 seconds (JVM running for 15.473)
+2021-01-31 19:38:27,673 INFO com.example.demo.DemoApplication [restartedMain] Starting DemoApplication using Java 1.8.0_111 on DESKTOP-1CR838O with PID 8456 (C:\Users\GalianaWork\IdeaProjects\ProyectoConcatel\build\classes\java\main started by GalianaWork in C:\Users\GalianaWork\IdeaProjects\ProyectoConcatel)
+2021-01-31 19:38:27,678 INFO com.example.demo.DemoApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-01-31 19:38:31,447 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2021-01-31 19:38:31,448 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-01-31 19:38:31,788 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2021-01-31 19:38:32,640 INFO com.example.demo.DemoApplication [restartedMain] Started DemoApplication in 5.653 seconds (JVM running for 9.654)
+2021-01-31 19:38:39,232 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-01-31 19:42:03,292 INFO com.example.demo.DemoApplication [restartedMain] Starting DemoApplication using Java 1.8.0_111 on DESKTOP-1CR838O with PID 13152 (C:\Users\GalianaWork\IdeaProjects\ProyectoConcatel\build\classes\java\main started by GalianaWork in C:\Users\GalianaWork\IdeaProjects\ProyectoConcatel)
+2021-01-31 19:42:03,295 INFO com.example.demo.DemoApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-01-31 19:42:04,549 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2021-01-31 19:42:04,550 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-01-31 19:42:04,664 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2021-01-31 19:42:05,145 INFO com.example.demo.DemoApplication [restartedMain] Started DemoApplication in 2.349 seconds (JVM running for 3.366)
+2021-01-31 19:42:16,038 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-01-31 19:43:18,598 INFO com.example.demo.DemoApplication [restartedMain] Starting DemoApplication using Java 1.8.0_111 on DESKTOP-1CR838O with PID 6912 (C:\Users\GalianaWork\IdeaProjects\ProyectoConcatel\build\classes\java\main started by GalianaWork in C:\Users\GalianaWork\IdeaProjects\ProyectoConcatel)
+2021-01-31 19:43:18,601 INFO com.example.demo.DemoApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-01-31 19:43:19,620 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2021-01-31 19:43:19,621 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-01-31 19:43:19,731 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2021-01-31 19:43:20,164 INFO com.example.demo.DemoApplication [restartedMain] Started DemoApplication in 2.015 seconds (JVM running for 2.822)
+2021-01-31 19:43:26,101 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-01-31 19:47:56,977 INFO com.example.demo.DemoApplication [restartedMain] Starting DemoApplication using Java 1.8.0_111 on DESKTOP-1CR838O with PID 7820 (C:\Users\GalianaWork\IdeaProjects\ProyectoConcatel\build\classes\java\main started by GalianaWork in C:\Users\GalianaWork\IdeaProjects\ProyectoConcatel)
+2021-01-31 19:47:56,980 INFO com.example.demo.DemoApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-01-31 19:47:58,076 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2021-01-31 19:47:58,077 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-01-31 19:47:58,177 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2021-01-31 19:47:58,627 INFO com.example.demo.DemoApplication [restartedMain] Started DemoApplication in 2.111 seconds (JVM running for 2.846)
+2021-01-31 19:48:11,396 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-01-31 19:48:11,598 INFO com.example.demo.infestructure.RegisterRepositoryImplementation [http-nio-8080-exec-1] Aqui vamos a salvar un registro
+2021-01-31 19:48:49,536 INFO com.example.demo.DemoApplication [restartedMain] Starting DemoApplication using Java 1.8.0_111 on DESKTOP-1CR838O with PID 12708 (C:\Users\GalianaWork\IdeaProjects\ProyectoConcatel\build\classes\java\main started by GalianaWork in C:\Users\GalianaWork\IdeaProjects\ProyectoConcatel)
+2021-01-31 19:48:49,539 INFO com.example.demo.DemoApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-01-31 19:48:50,516 INFO org.apache.catalina.core.StandardService [restartedMain] Starting service [Tomcat]
+2021-01-31 19:48:50,517 INFO org.apache.catalina.core.StandardEngine [restartedMain] Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-01-31 19:48:50,612 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [restartedMain] Initializing Spring embedded WebApplicationContext
+2021-01-31 19:48:51,029 INFO com.example.demo.DemoApplication [restartedMain] Started DemoApplication in 1.97 seconds (JVM running for 2.851)
+2021-01-31 19:48:51,151 INFO org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-01-31 19:48:51,246 INFO com.example.demo.infestructure.RegisterRepositoryImplementation [http-nio-8080-exec-1] Aqui vamos a salvar un registro
+2021-01-31 19:49:51,060 INFO com.example.demo.infestructure.RegisterRepositoryImplementation [http-nio-8080-exec-3] Aqui vamos a salvar un registro
+2021-01-31 19:52:38,067 INFO com.example.demo.infestructure.RegisterRepositoryImplementation [http-nio-8080-exec-10] Aqui vamos a salvar un registro
+2021-01-31 19:53:17,574 INFO com.example.demo.infestructure.RegisterRepositoryImplementation [http-nio-8080-exec-6] Aqui vamos a salvar un registro
+2021-01-31 19:53:30,858 INFO com.example.demo.infestructure.RegisterRepositoryImplementation [http-nio-8080-exec-9] Aqui vamos a salvar un registro
+2021-01-31 19:53:38,923 INFO com.example.demo.infestructure.RegisterRepositoryImplementation [http-nio-8080-exec-2] Aqui vamos a salvar un registro

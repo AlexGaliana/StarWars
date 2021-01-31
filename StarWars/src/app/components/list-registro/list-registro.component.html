@@ -1,0 +1,31 @@
+<h1>Registro estelar</h1>
+<div class="col-4"></div>
+<div class="col-8">
+  <table class="table table-striped">
+    <thead>
+      <tr>
+        <th  *ngFor="let col of colums">
+          {{col}}
+
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let reg of register">
+
+        <td >
+          {{reg.name}}
+        </td>
+        <td >
+          {{reg.planet}}
+        </td>
+        <td >
+          {{reg.date}}
+        </td>
+
+      </tr>
+    </tbody>
+  </table>
+
+</div>
+
